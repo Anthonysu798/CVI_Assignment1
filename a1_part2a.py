@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 
 # i. Open a color image and display
-image = cv2.imread('QZ.jpg')
+image = cv2.imread('lambo.jpg')
 cv2.imshow('Original Image', image)
 
 # ii. Increase brightness by adding a constant
